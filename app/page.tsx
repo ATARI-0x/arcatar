@@ -5,7 +5,7 @@ export default function Home() {
         Arcatar DeFi
       </h1>
       <p className="text-xl text-slate-400 dir-rtl">
-        پلتفرم دفی آرکاتار با موفقیت متصل شد! آماده برای شیرجه در وب ۳ 🚀
+        پلتیفرم دفی آرکاتار با موفقیت متصل شد! آماده برای شیرجه در وب ۳ 🚀
       </p>
     </main>
   );
